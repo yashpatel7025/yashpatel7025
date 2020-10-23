@@ -7,10 +7,10 @@
 
 <br />
 
-Passionate **Python/Django Backend Developer** 🚀 from Mumbai | India:india:, most of my time I spend solving real-world problems and learning new backend technologies.
+Passionate **Python/Django Backend Developer** from Mumbai | India:india:, most of my time I spend solving real-world problems and learning new backend technologies.
 
 - **Founding Member** and **Backend Developer** at a startup called [@Intract](https://www.intractonline.com/). **(11000+ Active Users)**
-- Currently, learning and exploring **Machine Learning** and **DevOps Tools** 
+- Currently, learning and exploring **Machine Learning** and **DevOps Tools** 🚀
 - I have worked on a variety of software projects including **Web Development**, **Machine Learning** & **Deep Learning** in association with a few reputed companies like [@TCS](https://www.tcs.com/), [@S3Infosoft](https://s3infosoft.com/), [@ANPR Solutions](#).
 - Beside's programming, I enjoy watching video podcasts and spiritual sessions.
 - **Open for job opportunities**
@@ -27,7 +27,7 @@ Passionate **Python/Django Backend Developer** 🚀 from Mumbai | India:india:, 
   <code><img width="10%" src="./images/djang-rest-framework-logo.webp"></code>
   <br />
   <code><img width="10%" src="./images/celery.png"></code>
-  <code><img width="10%" src="./images/scrapy-big-logo.png"></code>
+  <code><img width="5%" src="./images/scrapy-big-logo.png"></code>
   <code><img width="10%" src="./images/nginx-ar21.svg"></code>
   <br />
   <code><img width="10%" src="./images/gunicorn-ar21.svg"></code>
