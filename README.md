@@ -15,7 +15,7 @@ Passionate **Python/Django Backend Developer** 🚀 from Mumbai | India:india:, 
 - Beside's programming, I enjoy watching video podcasts and spiritual sessions.
 - **Open for job opportunities**
 
-<img align="right" alt="GIF" src="https://github.com/yashpatel7025/yashpatel7025/images/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/yashpatel7025/yashpatel7025/blob/main/images/code.gif?raw=true" width="500" height="320" />
 
 
 **Languages and Tools:**  
@@ -24,9 +24,12 @@ Passionate **Python/Django Backend Developer** 🚀 from Mumbai | India:india:, 
   
   <code><img width="10%" src="./images/python-ar21.svg"></code>
   <code><img width="10%" src="./images/djangoproject-ar21.svg"></code>
-  <code><img width="10%" src="./images/celery.png"></code>
+  <code><img width="10%" src="./images/djang-rest-framework-logo.webp"></code>
   <br />
+  <code><img width="10%" src="./images/celery.png"></code>
+  <code><img width="10%" src="./images/scrapy-big-logo.png"></code>
   <code><img width="10%" src="./images/nginx-ar21.svg"></code>
+  <br />
   <code><img width="10%" src="./images/gunicorn-ar21.svg"></code>
   <code><img width="10%" src="./images/jenkins-ar21.svg"></code>
   <code><img width="10%" src="./images/ansible-ar21.svg"></code>
