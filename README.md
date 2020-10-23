@@ -1,10 +1,35 @@
-### :star: I am Yash Patel :man_student:
-[![Linkedin Badge](https://img.shields.io/badge/-Atharva_Thorve-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yashpatel-ml//)](https://www.linkedin.com/in/yashpatel-ml/) [![Gmail Badge](https://img.shields.io/badge/-yashpatel7025@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yashpatel7025@gmail.com)](mailto:yashpatel7025@gmail.com)
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashpatel7025&layout=compact" />
--  **Learning :** Full-Stack Development :zap: | Open-Source :fire:
--  **Languages :** Java :heart:, JavaScript :yellow_heart:, Golang :blue_heart:
--  **Stacks :** MERN :zap: | MRG :fire:
--  **Hobbies :** Movies :tv: & Music :headphones:
--  **Motto :** Just try turning it off and on again :smile:
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashpatel7025&theme=radical&show_icons=true" />
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/yashpatel7025)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yashpatel-ml/)
+[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/yashpatel7025)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:yashpatel7025@gmail.com)
+![](https://visitor-badge.glitch.me/badge?page_id=yashpatel7025.yashpatel7025)
+
+<br />
+
+Hi, I'm Yash Patel, a Python/Django Backend Developer 🚀 from Mumbai-India, I'm founding member and working as a Backend Developer at [@Intract](https://www.intractonline.com/), I have worked on a variety of software projects including Web Development, Machine Learning & Deep Learning in association with a few reputed companies like [@TCS](https://www.tcs.com/), [@S3Infosoft](https://s3infosoft.com/), ANPR Solutions. love to interact with the people I meet, the feeling of successfully solving a real-world problem makes me happy and high more than any other thing in this world. Beside's programming, I enjoy watching video podcasts and spiritual sessions.
+Open for job opportunities
+
+<img align="right" alt="GIF" src="https://github.com/yashpatel7025/yashpatel7025/code.gif?raw=true" width="500" height="320" />
+
+
+**Languages and Tools:**  
+
+<p>
+  <a href="https://github.com/yashpatel7025">
+    <img align="right" width="55%" src="https://github-readme-stats.vercel.app/api?username=yashpatel7025&show_icons=true&line_height=27&count_private=true&include_all_commits=true" alt="Yash's GitHub stats"/>
+</a>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gunicorn/gunicorn-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
+  <br />
+  
+  
+ 
+</p>
