@@ -15,7 +15,7 @@ Passionate **Python/Django Backend Developer** from Mumbai | India:india:, most 
 - Beside's programming, I enjoy watching video podcasts and spiritual sessions.
 - **``Open for job opportunities``**
 
-<img align="right" alt="GIF" src="https://github.com/yashpatel7025/yashpatel7025/blob/main/images/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/yashpatel7025/yashpatel7025/blob/main/images/code.gif?raw=true" width="400" height="320" />
 
 
 **Languages and Tools:**  
