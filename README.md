@@ -16,20 +16,17 @@ Open for job opportunities
 **Languages and Tools:**  
 
 <p>
-  <a href="https://github.com/yashpatel7025">
-    <img align="right" width="55%" src="https://github-readme-stats.vercel.app/api?username=yashpatel7025&show_icons=true&line_height=27&count_private=true&include_all_commits=true" alt="Yash's GitHub stats"/>
-</a>
+  
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gunicorn/gunicorn-ar21.svg"></code>
   <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gunicorn/gunicorn-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg"></code>
+  <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
   <br />
-  
-  
  
 </p>
