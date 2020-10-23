@@ -1,4 +1,4 @@
-### Hey there, I'm Yash Patel,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey there, I'm Yash Patel<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/yashpatel7025)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yashpatel-ml/)
 [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/yashpatel7025)
@@ -22,16 +22,16 @@ Passionate **Python/Django Backend Developer** 🚀 from Mumbai | India:india:, 
 
 <p>
   
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg"></code>
+  <code><img width="10%" src="./images/python-ar21.svg"></code>
+  <code><img width="10%" src="./images/djangoproject-ar21.svg"></code>
+  <code><img width="10%" src="./images/nginx-ar21.svg"></code>
   <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gunicorn/gunicorn-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg"></code>
+  <code><img width="10%" src="./images/gunicorn-ar21.svg"></code>
+  <code><img width="10%" src="./images/jenkins-ar21.svg"></code>
+  <code><img width="10%" src="./images/ansible-ar21.svg"></code>
   <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
+  <code><img width="10%" src="./images/microsoft_azure-ar21.svg"></code>
+  <code><img width="10%" src="./images/docker-ar21.svg"></code>
   <br />
  
 </p>
