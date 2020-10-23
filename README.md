@@ -22,9 +22,9 @@ Passionate **Python/Django Backend Developer** from Mumbai | India:india:, most 
 
 <p>
   
-  <code><img width="15%" src="./images/python-ar21.svg"></code>
-  <code><img width="15%" src="./images/djangoproject-ar21.svg"></code>
-  <code><img width="15%" src="./images/djang-rest-framework-logo.webp"></code>
+  <code><img width="13%" src="./images/python-ar21.svg"></code>
+  <code><img width="13%" src="./images/djangoproject-ar21.svg"></code>
+  <code><img width="13%" src="./images/djang-rest-framework-logo.webp"></code>
   <br />
   <code><img width="10%" src="./images/celery.png"></code>
   <code><img width="10%" src="./images/scrapy1.png"></code>
