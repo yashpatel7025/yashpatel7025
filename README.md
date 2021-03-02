@@ -9,6 +9,7 @@
 
 Passionate **Python/Django Backend Developer** from Mumbai | India:india:, most of my time I spend solving real-world problems and learning new backend technologies.
 
+- Backend Intern at **CRED**
 - **Founding Member** and **Backend Developer** at a startup called [@Intract](https://www.intractonline.com/). **(11000+ Active Users)** 🚀
 - Currently, learning and exploring **Machine Learning** and **DevOps Tools** 
 - I have worked on a variety of software projects including **Web Development**, **Machine Learning** & **Deep Learning** in association with a few reputed companies like [@TCS](https://www.tcs.com/), [@S3Infosoft](https://s3infosoft.com/), [@ANPR Solutions](#).
