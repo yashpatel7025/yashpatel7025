@@ -9,7 +9,7 @@
 
 Passionate **Python/Django Backend Developer** from Mumbai | India:india:, most of my time I spend solving real-world problems and learning new backend technologies.
 
-- Software Engineer [@Prompt](https://prompt.com/)
+- Software Engineer [@Prompt](https://myprompt.com/)
 - Backend Intern at [@CRED](https://cred.club/).
 - **Founding Member** and **Backend Developer** at a startup called [@Intract](https://www.intractonline.com/). **(11000+ Active Users)** 🚀
 - Currently, learning and exploring **DevOps Tools** 
