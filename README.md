@@ -12,9 +12,9 @@ Passionate **Python/Django Backend Developer** from Mumbai | India:india:, most 
 - Software Engineer [@Prompt](https://myprompt.com/)
 - Backend Intern at [@CRED](https://cred.club/).
 - **Founding Member** and **Backend Developer** at a startup called [@Intract](https://www.intractonline.com/). **(11000+ Active Users)** 🚀
-- Currently, learning and exploring **DevOps Tools** 
+- Currently learning and exploring **DevOps Tools** 
 - I have worked on a variety of software projects in association with a few reputed companies [@TCS](https://www.tcs.com/), [@S3Infosoft](https://s3infosoft.com/).
-- Beside's programming, I enjoy watching video podcasts and spiritual sessions.
+- Beside's programming, I enjoy watching video podcasts and spiritual videos.
 
 <img align="right" alt="GIF" src="https://github.com/yashpatel7025/yashpatel7025/blob/main/images/code.gif?raw=true" width="450" height="320" />
 
